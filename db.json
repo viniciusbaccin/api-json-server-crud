@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Introdução ao Vue 3: Novos Recursos e Melhorias",
+      "author": "Joana Silva",
+      "content": "Descubra as novidades do Vue 3 e como elas podem melhorar o desenvolvimento de aplicações web."
+    },
+    {
+      "id": "2",
+      "title": "Construindo Aplicações com Quasar Framework",
+      "author": "Pedro Almeida",
+      "content": "Explore os recursos do Quasar Framework e aprenda a construir aplicações web modernas e responsivas."
+    },
+    {
+      "id": "3",
+      "title": "API REST: Fundamentos e Boas Práticas",
+      "author": "Mariana Santos",
+      "content": "Entenda os conceitos essenciais por trás das APIs REST e aprenda as melhores práticas para desenvolvê-las."
+    },
+    {
+      "id": "4",
+      "title": "Desenvolvimento Ágil com Vue 3 e Quasar",
+      "author": "Lucas Oliveira",
+      "content": "Aprenda a utilizar Vue 3 e Quasar para desenvolver aplicações web de forma ágil e eficiente."
+    },
+    {
+      "id": "5",
+      "title": "Testes Automatizados em Aplicações Vue",
+      "author": "Ana Rodrigues",
+      "content": "Descubra como implementar testes automatizados em aplicações Vue para garantir a qualidade do seu código."
+    },
+    {
+      "id": "6",
+      "title": "Desmistificando o Docker: Conceitos Básicos e Utilização",
+      "author": "Rafael Costa",
+      "content": "Entenda os principais conceitos por trás do Docker e aprenda a utilizar essa tecnologia para facilitar o desenvolvimento e deploy de aplicações."
+    },
+    {
+      "id": "7",
+      "title": "GraphQL: Uma Alternativa Moderna para APIs REST",
+      "author": "Carla Fernandes",
+      "content": "Explore as vantagens do GraphQL em relação às APIs REST tradicionais e aprenda a implementar uma API GraphQL em suas aplicações."
+    }
+  ]
+}
